@@ -27,7 +27,8 @@ https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-021-014
 4)	Pentelidou C*, Sonzogni O*, De Oliveira Taveira M, Mehta AK, Kothari A, Wang D, Visal T, Li MK, Pinto J, **Castrillon JA**, Cheney EM, Bouwman P, Jonkers J, Rottenberg S, Guerriero JL, Wulf GM, Shapiro GI. PARP Inhibitor Efficacy Depends on CD8+ T-cell Recruitment via Intratumoral STING Pathway Activation in BRCA-Deficient Models of Triple-Negative Breast Cancer. **Cancer Discov.** 2019;9(6):722-737. doi:10.1158/2159-8290.CD-18-1218
 
 5)	Guerriero JL, Sotayo A, Ponichtera HE, **Castrillon JA**, Pourzia A, Schad S, Johnson SF, Carrasco RD, Lazo S, Bronson RT, Davis SP, Lobera M, Nolan MA, Letai A. Class IIa HDAC inhibition reduces breast tumours and metastases through anti-tumour macrophages. Nature. 2017;543(7645):428-432. doi:10.1038/nature21409
-7)	Adeegbe DO, Liu Y, Lizotte PH, , Kamihara Y, Aref AR, Almonte C, Dries R, Li Y, Liu S, Wang X, Warner-Hatten T, **Castrillon J**, Yuan GC, Poudel-Neupane N, Zhang H, Guerriero JL, Han S, Awad MM, Barbie DA, Ritz J, Jones SS, Hammerman PS, Bradner JE, Quayle SN, Wong KK. Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non-Small Cell Lung Cancer. **Cancer Discov.** 2017;7(8):852-867. doi:10.1158/2159-8290.CD-16-1020
+
+6)	Adeegbe DO, Liu Y, Lizotte PH, , Kamihara Y, Aref AR, Almonte C, Dries R, Li Y, Liu S, Wang X, Warner-Hatten T, **Castrillon J**, Yuan GC, Poudel-Neupane N, Zhang H, Guerriero JL, Han S, Awad MM, Barbie DA, Ritz J, Jones SS, Hammerman PS, Bradner JE, Quayle SN, Wong KK. Synergistic Immunostimulatory Effects and Therapeutic Benefit of Combined Histone Deacetylase and Bromodomain Inhibition in Non-Small Cell Lung Cancer. **Cancer Discov.** 2017;7(8):852-867. doi:10.1158/2159-8290.CD-16-1020
 
 
 
